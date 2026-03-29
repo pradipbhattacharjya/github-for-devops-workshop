@@ -1,8 +1,10 @@
+"""Demo module for greeting function."""
+
+
 def hello():
-    """
-    this is demo
-    """
+    """Return a greeting message."""
     return "Hello Dosto"
 
 
-hello()
+if __name__ == "__main__":
+    hello()
