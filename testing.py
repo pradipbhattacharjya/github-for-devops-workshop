@@ -1,4 +1,4 @@
-"""Demo module for greeting function."""
+"""Demo module for greeting functionality."""
 
 
 def hello():
@@ -7,4 +7,4 @@ def hello():
 
 
 if __name__ == "__main__":
-    hello()
+    print(hello())
